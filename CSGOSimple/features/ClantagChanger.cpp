@@ -1,4 +1,3 @@
-//OFFICAL REVERSED CLANTAG WITH SYNC FROM DUMP CHIDAWARE.CC 9/11/01
 #include "ClantagChanger.h"
 #include "../options.hpp"
 
